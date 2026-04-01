@@ -8,13 +8,12 @@
 
 Sistema IoT de gestión de casilleros inteligentes con control remoto, 
 sincronización en tiempo real y aplicación Android nativa.
-
 ## Repositorios
 
 | Componente | Stack | Link |
 |---|---|---|
-| Panel Web + Backend | Django, React | [WasabiDefinitive](https://github.com/RedDeadth/WasabiDefinitive) |
-| App Android | Kotlin, MVVM, Firebase | [GuardBoxing](https://github.com/RedDeadth/GuardBoxing) |
+| Panel Web + Backend | Django, React | [WasabiDefinitive](https://github.com/RedDeadth/GuardBoxing) |
+| App Android | Kotlin, MVVM, Firebase | [GuardBoxing](https://github.com/RedDeadth/WasabiDefinitive) |
 
 ## Arquitectura
 
