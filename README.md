@@ -12,8 +12,8 @@ sincronización en tiempo real y aplicación Android nativa.
 
 | Componente | Stack | Link |
 |---|---|---|
-| Panel Web + Backend | Django, React | [WasabiDefinitive](https://github.com/RedDeadth/GuardBoxing) |
-| App Android | Kotlin, MVVM, Firebase | [GuardBoxing](https://github.com/RedDeadth/WasabiDefinitive) |
+| Panel Web + Backend | Django, React | [GuardBoxing](https://github.com/RedDeadth/GuardBoxing) |
+| App Android | Kotlin, MVVM, Firebase | [WasabiDefinitive](https://github.com/RedDeadth/WasabiDefinitive) |
 
 ## Arquitectura
 
