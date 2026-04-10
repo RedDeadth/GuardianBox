@@ -6,18 +6,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-> 🇬🇧 [English](#english) · 🇵🇪 [Español](#español)
+[English](#english) · [Español](#español)
 
 ---
 
 <a name="english"></a>
-## 🇬🇧 English
+## English
 
 IoT smart locker management system with remote control, real-time synchronization and native Android app.
-
-### Index
-- [Repositories](#repositories)
-- [Architecture](#architecture)
 
 ### Repositories
 
@@ -36,13 +32,9 @@ IoT smart locker management system with remote control, real-time synchronizatio
 ---
 
 <a name="español"></a>
-## 🇵🇪 Español
+## Español
 
 Sistema IoT de gestión de casilleros inteligentes con control remoto, sincronización en tiempo real y aplicación Android nativa.
-
-### Índice
-- [Repositorios](#repositorios)
-- [Arquitectura](#arquitectura)
 
 ### Repositorios
 
